@@ -1,0 +1,705 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explication, of - Thrissels - banner Containing a brief interpretation &amp; declaration, of the forme &amp; fashion thereof, as also of the matter therein expressed.</title>
+            <author>Cunningham, Thomas, 1604-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19703</idno>
+            <idno type="STC">STC 6120</idno>
+            <idno type="STC">ESTC S109144</idno>
+            <idno type="EEBO-CITATION">99844794</idno>
+            <idno type="PROQUEST">99844794</idno>
+            <idno type="VID">9639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1601:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Explication, of - Thrissels - banner Containing a brief interpretation &amp; declaration, of the forme &amp; fashion thereof, as also of the matter therein expressed.</title>
+                  <author>Cunningham, Thomas, 1604-1670.</author>
+               </titleStmt>
+               <extent>16 p., folded plate   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Netherlands :</pubPlace>
+                  <date>Anno 1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The name of the author, Thomas Cunnynghame, appears in the first syllables of each line of the verse beneath the banner in the plate and in the middle of B4r.</note>
+                  <note>A Covenanter manifesto.</note>
+                  <note>Country of publication from STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>The engraved plate is entitled: Thrissels. banner.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenanters --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2006-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2006-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9639:1"/>
+            <p>EXPLICATION, OF-THRISSELS-BANNER.</p>
+            <p>Containing a Brief Interpretation &amp; Declaration, Of the Forme &amp; Faſhion thereof, as alſo Of the Matter therein Expreſſed.</p>
+            <figure>
+               <p>ANNO 1640.</p>
+               <p>Matt. Chap. 10. verſ. 16. Bee- Wijſe-as-Serpents Innocent-as-Doues</p>
+            </figure>
+            <p>
+               <hi>Pſalm 20. Verſe.</hi> 1. 5.</p>
+            <p>The Lord heare thee in the day of trouble: the Name of Iaakobs God defend thee, &amp;c. that Wee may reioyce in thy ſalvation and ſet up the Banner in the Name of our God &amp;c.</p>
+            <p>
+               <hi>Pſalm 60. Verſe.</hi> 4.</p>
+            <p>Thou (O God) haſt given a Banner to them that feare thee, that it may be diſplayed becaus of thy Trueth.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:9639:2"/>
+            <pb facs="tcp:9639:2"/>
+            <head>The Preface.</head>
+            <p>SInce never Man at any tyme could ſo wyſely frame his <hi>Work</hi> or compoſe his <hi>Wryttings</hi> but (it comming to the Pu<g ref="char:EOLhyphen"/>blike view) either <hi>Ignorance</hi> or <hi>Envy</hi> (if not both) <hi>Mortal Ennemies to Vertue</hi> did always labour to <hi>Under-Myne</hi> the Sinceritie of the <hi>Author,</hi> ſeeking (with the pricking <hi>SPi<g ref="char:EOLhyphen"/>der)</hi> to draw theyr <hi>Venem</hi> out of the beſt <hi>Herbes</hi> and ſweeteſt ſmelling <hi>Floures?</hi> I Conſidering this, darre promeſe no Secu<g ref="char:EOLhyphen"/>rite to My ſelf (tho a continual <hi>Amator</hi> yet no dayly <hi>Practiſer)</hi> being but a new graffed <hi>Impe</hi> in compariſon of thoſe innume<g ref="char:EOLhyphen"/>rable flouriſſing famous (and yet nevertheleſſe controlled) <hi>Poets,</hi> Notwith ſtanding (being mooved with a entire <hi>Affection</hi> towards al thoſe that from theyr Hearts wiſh, Labour for, and Ayme at, <hi>the Peace of Syon)</hi> I have enterpryſed and, by the <hi>Grace of God,</hi> finiſhed and perfyted, My <hi>firſt Fruit,</hi> Intitulate <hi>Thriſſels Banner?</hi> And knowing that the ſame ſhal rencounter, and come to, the Hands and Eyes, both of <hi>Friends</hi> and <hi>Foes,</hi> which I al include in three Ranks, the <hi>Firſt, Wyſe and Underſtan<g ref="char:EOLhyphen"/>ding</hi> (only Abſolute <hi>Friends)</hi> the <hi>Second, Ignorants</hi> (both <hi>Frieuds</hi> and <hi>Foes)</hi> the <hi>Thrid Malicious Partial Calumniators</hi> (only Abſolute <hi>Foes)</hi> Therefore I have thought it moſt Neceſſary and Expedient (for Preventing and Eſchewing, ſo farre as poſſibly I can, al <hi>falſe Gloſſes of Adverſaries)</hi> to Accompany and Convoye the foreſayd <hi>Banner,</hi> with this My owne <hi>Expli<g ref="char:EOLhyphen"/>cation,</hi> where in I have (ſo Briefly and playnly as I could) faythfully Declared <hi>My Meaning and Intention</hi> in everie thing,
+<pb facs="tcp:9639:3"/>
+as wel anent the <hi>Forme</hi> of it, as concerning the <hi>Matter</hi> and words therein contayned; which I Hope ſhal tend, <hi>To,</hi> the <hi>Comfort</hi> and <hi>Edification</hi> of the <hi>Firſt. Inſtruction</hi> of the <hi>Second, Conviction</hi> and <hi>Diſcloſing</hi> of the <hi>Third,</hi> and in Al and Everie one of them, to the <hi>Glory of God,</hi> whom I earneſtly beſeech to Maintayne <hi>His owne Cauſe,</hi> to Strenthen Encouradge and Aſſiſt the <hi>Defenders</hi> thereof, to Open the Eyes of ſuch as yet are Blinded, to Arme al thoſe that ſuffer Perſecution for His ſake, with <hi>Wiſdome</hi> and <hi>Chriſtian Patience,</hi> graunting thame, that paſſing Natural underſtanding, <hi>Peace of Conſcience.</hi> Here in this Lyfe, and in His owne good Tyme Everlaſting.</p>
+            <closer>Repos Ailleurs.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="explication_of_banner">
+            <pb facs="tcp:9639:3"/>
+            <head>Explication of the Forme &amp; Faſhion of Thriſſels Banner.</head>
+            <div type="part">
+               <head>The Booke.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Ignifyeth <hi>The Byble</hi> and conſequently <note n="a" place="margin">Ioſ. 1, 8. Pſal. 119 105, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>72 Pſal. 19. 7, &amp;c. Iſai. 20, 8. Iſai 66, 25. Luk 8, 21. Ioh 5, 24. 38. Heb 4, 12. 1. Ioh 2, 5.</note> 
+                  <hi>the Word of God,</hi> which ought to be <hi>the Foundation and Ground of our Attempts,</hi> as being <hi>the only Infallible Rule</hi> whereby al the Imaginations, Thoughts, Words, Reſolutions and actions of Man ſhould be Squared.</p>
+            </div>
+            <div type="part">
+               <head>The Sword.</head>
+               <p>Signifyeth <note n="b" place="margin">Rom. 13, 4.</note> 
+                  <hi>Authority,</hi> and the ſtanding of it upon the Byble, Signifyeth that <note n="c" place="margin">Rom 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 1. Prov. 8, 15, 16. Dan. 2, 21.</note> 
+                  <hi>al Authority is of God.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Thriſſel Crouwned.</head>
+               <p>Signifyeth <hi>the Kingdome of Scotland,</hi> Item the Binding and Knitting of the <hi>Thriſſel</hi> and <hi>Sword</hi> each one to other, Signifyeth the Mutual Band betwixt <hi>King</hi> and <hi>Subiects,</hi> Item the <hi>Thriſſel</hi> Decoring the <hi>Sword</hi> Signifyeth that <note n="d" place="margin">Prov. 14, 28.</note> 
+                  <hi>the Honour of a King ſtan<g ref="char:EOLhyphen"/>deth in his Subiects,</hi> Item the <hi>Sword</hi> carying up the <hi>Thriſſel</hi> and ſo the <hi>Thriſſel</hi> Reſting, and (as it were) Growing upon <hi>the Sword,</hi> Signifyeth, as <note n="e" place="margin">Rom. 13, 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Kings</hi> ought to Maintayne and Defend theyr <hi>Subiects,</hi> being (under <hi>God)</hi> a Reſt and Refuge unto them, ſo <note n="f" place="margin">Rom. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3, 1 <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1. Pet 2, 7.</note> 
+                  <hi>Subiects</hi> are Bund and Obliged to give due Reſpect and Honour to theyr <hi>King</hi> and to Obey theyr <hi>Superiours</hi> in al things <note n="g" place="margin">Act. 4, 19.</note> 
+                  <hi>Agree<g ref="char:EOLhyphen"/>ing with the Law and Commandement of God,</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Garter.</head>
+               <p>Signifyeth <note n="h" place="margin">Eph 4, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Col. 3. 24, 25.</note> 
+                  <hi>The Bond of Peace,</hi> Item <hi>the Garter</hi> binding <hi>the Sword</hi> (by a Knot about the Gardes therof) in and faſt to the Sheath, and ſo going upward throug the <hi>fyve Rings,</hi> with woup<g ref="char:EOLhyphen"/>pings about the Sheath faſtening the <hi>Sword</hi> to the <hi>Banner,</hi> Sig<g ref="char:EOLhyphen"/>nifyeth that of al <hi>Eſtats,</hi> that is the moſt <hi>Happy,</hi> which (next unto the <note n="i" place="margin">Iſai 54, 13. Techa 8, 19. Luc. 1, 27, 29.</note> 
+                  <hi>True Light of Gods Word</hi> and His <hi>Pure Worſhip)</hi> Enioy<g ref="char:EOLhyphen"/>eth a Blesſed <note n="k" place="margin">Levi. 26, 36. Num. 6, 26. Pſal. 29, 11. Pſal. 147, 14. Luc. 2, 14. 2. Theſ 3, 6.</note> 
+                  <hi>Peace</hi> Eſpecially within it Self when <hi>King</hi> and
+<pb facs="tcp:9639:4"/>
+                  <hi>Subiects</hi> of al Ranks, are (as it were) wrapped togither in <note n="l" place="margin">Pſal. 133, 1.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nitie Peace</hi> and <hi>Brotherly Love,</hi> Item the two <hi>Loufe-hinging-Ends</hi> of the <hi>Garter,</hi> Signifye that al readie ſome <hi>Knots</hi> of <hi>Peace</hi> are <hi>Lou<g ref="char:EOLhyphen"/>ſed,</hi> And as there is only reſting <hi>one Knot</hi> about the <hi>Gardes</hi> and <hi>another</hi> about the <hi>Thriſſel,</hi> ſo Peace betwixt <hi>King</hi> and <hi>Subiects</hi> is in a <hi>weake Eſtate,</hi> and be al ontward appearance (except <hi>The Lord of Peace</hi> Prevent it) verie neere at ane <hi>End,</hi> Item as the <hi>Sword</hi> can not be Drawne, unles, that one (get reſting, faſt) <hi>Knot about the Gardes</hi> be either <hi>Louſed,</hi> or <hi>Broken,</hi> and that being done, the <hi>Garter</hi> ſhal Hing <hi>wholely Louſſe,</hi> and not be able to beare up, or Keep faſt, neither <hi>Banner</hi> nor <hi>Thriſſel,</hi> So if the <hi>King</hi> Enter againe in Warre lyke manner againſt his <hi>Subiects,</hi> and ſo (as it were) ſhaking thame of, <hi>Reiecting theyr Earneſt and Lawful Petitions</hi> They (finding them ſelfs <hi>altogither caſt Louſſe and Juſtice Denyed to them)</hi> ſhalbe forced, and muſt Reſolve, to take them to <hi>ano<g ref="char:EOLhyphen"/>ther Courſe,</hi> and to uſe al <hi>Poſſible, Lawful and Readieſt Meanes</hi> for the <hi>Safetie</hi> and <hi>Defence</hi> of <hi>Themſelfs, Religion</hi> and <hi>Liberties.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Banner.</head>
+               <p>Signifyeth the <hi>True Reformed Religion,</hi> by the <note n="m" place="margin">Ioh. 8, 31. Ihon 13, 35. Mat 12, 50. Act. 11, 26.</note> Sincere Pro<g ref="char:EOLhyphen"/>feſſion and Practiſe whereof, <hi>Al Faythful Chriſtians</hi> (as Souldiers by theyr Cullours) are Knowne and Diſcerned from <note n="n" place="margin">Mat 23, 13, &amp;c. Mat 7, 16, 22.</note> 
+                  <hi>Tyme<g ref="char:EOLhyphen"/>ſerving-Hypocrites</hi> and <hi>Infidels.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Croſſes into the Banner.</head>
+               <p>Signifye (by and attour theyr Ordinarie uſual Signification) the <note n="o" place="margin">Pſal 31, 19 Iob 14, 1, Iohn 16, 33 2, Tim, 3, 2.</note> Many fold <hi>Troubles Miſeries</hi> and <hi>Calamities,</hi> where unto al <hi>Righteous True Members</hi> and <hi>Diſciples of Chryſt</hi> (in this Lyfe) are Subiect, Item al the <hi>Croſſes</hi> in the <hi>Banner</hi> both <hi>Beginning</hi> and <hi>En<g ref="char:EOLhyphen"/>ding,</hi> 
+                  <note place="margin">p Lam. 2, 14, Gal. 2, 4. 2. Pet, 2, 1. Gal 6, 12, Ezeh 13, 2, 1 Kings, 32, 5. 6, Ier 6, 14, Ier 8, 11. Ier. 23, 9, Ier 50. 6.</note> 
+                  <hi>From</hi> and <hi>Into,</hi> the <hi>Edge</hi> or <hi>Border</hi> of the <hi>Banner,</hi> Signifye, that (according to the Old Proverbe <hi>Omne Malum ab Eccleſia)</hi>
+               </p>
+               <p>Ordinarly in al Ages the greateſt Troubles were (as yet they are) Bred and Occaſioned by ſuch as carie the <hi>Name</hi> and <hi>Shew</hi> of <hi>Gods Meſſengers,</hi> but whoſoever wil but, with ſound Iudge<g ref="char:EOLhyphen"/>ment, cal to Mynd <hi>bygone Examples,</hi> with open Eyes, behold <hi>pre<g ref="char:EOLhyphen"/>ſent Experience,</hi> and with patient Hearts waite upon <hi>the Lords due tyme,</hi> ſhal certainly Learne, clearly See, and ſurely find, that <hi>God</hi> ever hath <note n="q" place="margin">Iob, 5, 12, 13 Pſal. 31, 23, Pſal 119, 21, Prov. 15, 25, Iſai, 2, 12, Luc. 1, 51,</note> 
+                  <hi>Skattered the Proud in the Imagination of theyr Hearts,</hi> ſtil doeth <note n="r" place="margin">Prov, 12, 7, Prov, 21, 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Cor. 3, 19</note> 
+                  <hi>Overthrow the wicked in theyr owne Interpryſes,</hi> and
+<pb facs="tcp:9639:4"/>
+finally ſhal make the <hi>Ennemies</hi> of his <hi>Trueth</hi> 
+                  <note n="s" place="margin">Pſal 75, 8.</note> 
+                  <hi>wring out and Drinke the Dregs of his Wrath,</hi> and put Them to <note n="t" place="margin">Ier, 20, 11, Iſai, 41, 11.</note> 
+                  <hi>Everlaſting Shame</hi> and <hi>Perpetual Confuſion.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The fyve Rings.</head>
+               <p>Signifye <note n="v" place="margin">Exod, 19, 5 6, Exod, 34, 27. Levi, 20, 9, Deut. 5, 2, 3.</note> 
+                  <hi>Al the Faythful Covenanters in Scotland Nobilitie, Gen<g ref="char:EOLhyphen"/>trie, Borrows, Miniſters and Commons,</hi> Item the <hi>Faſtening</hi> of the <hi>Rings</hi> into the <hi>Banner,</hi> Signifyeth how <note n="w" place="margin">Exod. 24, 8. Levi, 24, 8 Levi, 26, 9, 15. 25 42, 44, Deut 4, 13, 23, Deut, 7, 9, 12, Deut, 8, 18 Deut. 29, 1, &amp;c Ioſue, 24, 25, 2. Kings, 11, 7. 2. Cron, 34, 50 31</note> 
+                  <hi>Deeply</hi> they are <hi>Sworne,</hi> and firmely Bund and Obliged (Coniunctly and unſeparably) to Mayntayne, Defend, and Cleave faſt, unto, the <hi>True Refor<g ref="char:EOLhyphen"/>med Religion,</hi> to theyr Lyfes End, Item as the <hi>Louſing</hi> of the <hi>Garter</hi> may wel Separate the <hi>Sword</hi> from the <hi>Rings</hi> but can not Separate the <hi>Rings</hi> from the <hi>Banner,</hi> So the <hi>Breach</hi> of <hi>Peace</hi> may wel make a Separation betwixt <hi>King</hi> and <hi>Subiects</hi> but <note n="x" place="margin">Rom, S, 35. 38, Pſal, 119, 33, &amp;c.</note> ſhal never be able to make any Separation betwixt the <hi>Sincere Covenanters</hi> and <hi>True Religion.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Streamer.</head>
+               <p>Signifyeth <note n="y" place="margin">Pſal. 74, 22, 22</note> 
+                  <hi>The good Cauſe,</hi> Item <hi>the Cord</hi> (wherby <hi>the Stre<g ref="char:EOLhyphen"/>amer</hi> is faſtened to <hi>the Thriſſel)</hi> Signifyeth <note n="z" place="margin">Ezek, 20, 37.</note> 
+                  <hi>the Bond of the Cove<g ref="char:EOLhyphen"/>nant,</hi> whereby the <hi>Faythful Covenanters</hi> are Faſtened and Knitt <hi>to the Good Cauſe.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="explication_of_text">
+            <head>Explication of the Matter Expreſſed in Thriſſels Banner.</head>
+            <div type="part">
+               <head>The Title.</head>
+               <p>As al Right and <hi>True-Mynded Authors</hi> ever Studie and In<g ref="char:EOLhyphen"/>devore to <hi>Intitulate</hi> theyr Labours and Wryttings, So, that, the <hi>Spectator</hi> at the firſt <hi>View,</hi> and the <hi>Render</hi> in one <hi>Word,</hi> may take up and Conceive the whole <hi>Matter,</hi> togither with the <hi>Author</hi> his <hi>Sh<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pe</hi> and <hi>Intention,</hi> So I (according to my ſimple Iudcement) have thought <hi>Thriſſels Banner</hi> the fitteſt <hi>Title</hi> for that <hi>Worke,</hi> the whole Matter therein contayned, Belonging properly to the preſent Eſtate of <hi>Scotland</hi> and <hi>Inhabitants</hi> thereof.</p>
+            </div>
+            <div type="part">
+               <head>Liberum Hilarem.</head>
+               <p>Standing within the Body of the Thriſſel, Signifyeth that <note n="a" place="margin">Levi. 25, 100 Iſai. 61, 6, Pſal, 14. 71.</note> 
+                  <hi>Al</hi> which is <hi>Free</hi> is <hi>Joyful.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9639:5"/>
+               <head>Si Deus nobiscum Quis contranos.</head>
+               <p>Standing into the <hi>two Leafes</hi> of <hi>the Thriſſel,</hi> Signifyeth that al thoſe <note n="b" place="margin">Pſal 23, 1, &amp;c. Pſal, 23, 25, Pſal, 56, 11, Rom, 8, 31.</note> 
+                  <hi>who have God on theyr ſyde, need not Feare</hi> nor Care much <hi>Who be againſt them.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Tandem Bona Cauſa Triumphat.</head>
+               <p>Standing into <hi>the Streamer,</hi> Signifyeth that <note n="c" place="margin">Pſal 37, 37. Ier. 29. 11. Pſal, 105, 19. Rom, 8, 25.</note> 
+                  <hi>The good Cauſe ſhal finally</hi> (in The Lords due tyme) <hi>Triumph.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:9639:5"/>
+                  <figure>
+                     <head>THRISSELS.BANNER</head>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of streamer, tied to thistle by cord</figDesc>
+                     <q>Tandem Bona Causa Triumphat</q>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of crowned thistle (resting upon the sword)</figDesc>
+                     <q>SI.DEUS.NOBISCUM.QUIS.CONTRA.NOS</q>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of sword (standing on Bible)</figDesc>
+                     <head>IN.DEFENCE.</head>
+                     <q>O.King.of.Royal.Race.Remember.My.true.Word.Thou.ventur's Crown,and.Peace.By.Drawing.Thy.Sword.</q>
+                     <q>CREDE.MIHI.VERUM.LIBERTAS.OPTIMA.RERUM.
+NUNQUAM.SERVILI.SUB.NEXU.VIVETE.FILII.</q>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of book (Bible)</figDesc>
+                     <q>VERBVM.DOMINI.MANET IN.AETERNUM</q>
+                     <q>REMOVE.THE.WICKED.FROM.THE.KING: IN.RIGHTEOUS<g ref="char:EOLunhyphen"/>NES.THEN.SHAL.HEE.REIGN
+<bibl>PROVERBIORUM XXV.V.</bibl>
+                     </q>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of garter, binding banner to sword by five rings</figDesc>
+                     <q>DOMINUS.FIRMET.VINCULUM.PACIS.</q>
+                     <p>If.this.knot.loused.bee.it's.thy.Loss.and.thy.heirs.whither.the.Victo<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.bee.on.thy.ſyde.or.theirs.</p>
+                     <q>PRO LEGE REGE GREGE</q>
+                     <q>HONY.SOIT.QUI.MAL.Y.PENSE.</q>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of banner proper, with acrostics</figDesc>
+                     <lg>
+                        <l>WHEN.EVER.FAYTHFUL.HEARTS.BEHOLD.OUR.CROSSED.NATION</l>
+                        <l>OH.THEY.WIL.DROWN.IN.GRIEF.UNLES.FOR.INFORMATION</l>
+                        <l>THEY.ENTER.IN.GODS.COURTS.TAKING.DILIGENT.VIEW</l>
+                        <l>OF.ENDLES.TRUETHS.RECORD.SHAL.ALWAYS.FIND.THIS.TRUE</l>
+                        <l>THAT.OLD.MAN.MURTH'RING.FOE.INDEVOR'S.T'HAVE.REWALLED</l>
+                        <l>HIS.DOUN.THROW'N.BABYLON.AND.SVPERSTITION.STALLED</l>
+                        <l>EXPRESLY.WHER.CHRYSTS.FLOCK.HIM.ONCE.DID.BANISH.OUT</l>
+                        <l>MIGHTY.YEA.DEVLISH.SNARES.HEE.FRAM'D.AND.CAST.ABOUT</l>
+                        <l>TRUE.HEARTED.THRISSELS.FAYTH.BY.CRAFTY.GUYLE.ALLURING</l>
+                        <l>HIS.ANTECHRISTIAN.WHOORE.HATH.LATELY.BENE.PROCURING</l>
+                        <l>AND.SOUGHT.HER.WONTED.THRONE.AMONGST.US.SURE.TO.PLANT</l>
+                        <l>THEN.WEE.QUICKLY.RENEW'D.OUR.OATH.AND.COVENANT</l>
+                        <l>CONFESS'D.OUR.SINS.TO.GOD.WHO.HEARD.OUR.SUTE.HIGH.SOUNDED</l>
+                        <l>OUR.CHURCH.AGAINE.WAS.SWEEPT.OUR.FOES.ON.EARTH.CONFOUNDED</l>
+                        <l>NO.LAW.COULD.THEM.EXCUSE.BLIND.GUYDS.GOT.HENCE.IN.YRE</l>
+                        <l>TO.RE-CANT.PRELATS.HOPE.THEYR.CANNONS.GAVE.FALS.FYRE</l>
+                        <l>RIGHT.SENTENCE.WAS.PROCLAM'D.TH'ETERNAL.VALE.SURED</l>
+                        <l>OPPRESSORS.PLOTS.UNKLOACKT.HYRLINGS.DAMN'D.AND.ABIURED</l>
+                        <l>LYKE.VIPERS-BROOD.THEY STILL.TROUBLING.OUR.STATE.ABYDE</l>
+                        <l>UNBUCKLING.BRITTANS.CROWN.FOR.DOUBLING.OUT.THEYR.PRYDE</l>
+                        <l>SINCE.CHRYST.BECOME.OUR.KING.SYONS.TRUETH.OUR.FONDATION</l>
+                        <l>WORDLINGS.DID.EVER.CROSS.OUR.PEACE.AND.REFORMATION</l>
+                        <l>ENVY.TH'INFERNAL.CHEIF.UNCESSANTLY.TORMENTS</l>
+                        <l>EVA'S.TRUE.PROMIS'D.SEED.BY.RESTLES.INSTRUMENTS</l>
+                        <l>LET.CHRISTIANS.NOT GROW.FEARD.OF.SATANS.ROARING.STORY</l>
+                        <l>FOR.THIS.OUR.WRESTLING.DAY.WIL.BRAVELY.END.IN.GLORY</l>
+                        <l>EV'N.THIS.OUR.TEMP'RAL.YOKE.IT.SHAL.YEELD.AND.BRING.HOME</l>
+                        <l>A.CROWN.OF.RIGHTE<gap reason="illegible: missing" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>NES.TO.THOSE.THAT.OVERCOME</l>
+                        <l>REPOSE.ON.HIM.WIL.WEE.THAT.FURTH.OF.DARKNES.DREW.US</l>
+                        <l>GOD.SHAL (MAINTAYN.HIS.CAUS).NO.DOUBT.FULLY.RESCUE.US</l>
+                        <l>ON.HIS.TRUETH.WEE'L.DEPEND.SINCE.THOW.OUR.EARTHLY.HOPE</l>
+                        <l>DECEIV'D.BY.MONSTERS.MASK'D.CONDEMN'S.OUR.LOYAL.SKOPE</l>
+                        <l>THIS.MULTIPLYES.OUR.GRIEF.THAT.THOU.O.THRISSELS.IEWEL</l>
+                        <l>HAST.TURNED.BRED-BORN-LOVE.IN.WRATHS.AL-WASTING.FEWEL</l>
+                        <l>EXPECT.NO.CONSTANT.PEACE.THY.DIADEME.WIL.SHAKE</l>
+                        <l>NO.TRUEREST.THOW.CANST.KEEP.IF.CROSS'D.TRUETH.THOW.FORSAKE</l>
+                        <l>CHARL'S.WORTHY.FAMOUS.PRINCE.WEIGH.WEL.THIS.FINAL.SEASON</l>
+                        <l>AND.QUENSH.THE.KINDLED.FYRE.APPEAL.FROM.RAGE.TO.REASON</l>
+                        <l>REPARE.RELIGIONS.WALLES.LET.WRATH.WITH.PHAR'O.DROWN</l>
+                        <l>OH.DEAR.HEAD.ROOTE.OUT.SUCH.WHO.SEEKE.T'HAVE.THEE.DESMEMBERD</l>
+                        <l>LO.NOW.THOW.CANST.ATTAYN.TO.FAYTHS.DEFENCE.RENOWN</l>
+                        <l>VAYN.HAMANS.MUST.BE.TRY'D.TRUE.MORDECAIS.REMEMBERD</l>
+                        <l>SCOTS.TWELF.TYMES.NYNT.MAN-KING.HOLD.FAST.KING.FERGUS.CROWN</l>
+                     </lg>
+                     <lg type="acrostics">
+                        <l>WHEN.ONLY.THRISSELS.KING.OUR.FAYTHFUL.STEWARD.BORN</l>
+                        <l>BUT.SINCE.THE.DOUBEL.CROS.OF.BRITTANS.CHIEF.WAS.WORN</l>
+                        <l>S.ANDREWS.CROS.ENI<gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>Y'D.WE.IOY'D.BY.TRUETH'S.PLANTATION</l>
+                        <l>WORLDLINGS.DID.EVER.CROSS.OUR.PEACE.AND.REFORMATION</l>
+                     </lg>
+                     <q>HOLD.FAST.THE.TRUETH.CARE.NOT.FOR.MORTAL.MEN.EXPECTING.TH'ENDLES.CROWN.MOST.COMFORTABLE.
+IF.CHRISTIANS.HOPE.WERE.BVT.IN.THIS.LYFE.THEN.WEE.OF.AL.MEN.WERE.THE.MOST.MISERABLE</q>
+                  </figure>
+                  <figure>
+                     <lg>
+                        <l>
+                           <hi>Tho.</hi>al.the.Pow'rs.and.Strength.</l>
+                        <l rend="indent">masked.with.Wordly.Toyes.</l>
+                        <l>
+                           <hi>Of.</hi>Satan.Hel.and.Death</l>
+                        <l rend="indent">
+                           <hi>Thyne.</hi> (O Lord) here.Oppreſſed,</l>
+                        <l>
+                           <hi>Cun<g ref="char:cmbAbbrStroke">̄</g>yng.</hi> Curſ'd.Fooles.at.length.</l>
+                        <l rend="indent">
+                           <hi>hame.</hi> jn.Thy.Upper-Joyes.</l>
+                        <l>
+                           <hi>Content</hi>les.through.Fyr's.Breath</l>
+                        <l rend="indent">
+                           <hi>Thee.</hi> with Thyne.ſhal.ſee.Bleſſed</l>
+                        <closer>
+                           <date>1640</date>
+                        </closer>
+                     </lg>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9639:6"/>
+               <head>Si Deus nobiscum Quis contranos.</head>
+               <p>Standing into the <hi>two Leafes</hi> of <hi>the Thriſſel,</hi> Signifyeth that al thoſe <note n="b" place="margin">Pſal 23, 1, &amp;c. Pſal, 23, 25, Pſal, 56, 11, Rom, 8, 31.</note> 
+                  <hi>who have God on theyr ſyde, need not Feare</hi> nor Care much <hi>Who be againſt them.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Tandem Bona Cauſa Triumphat.</head>
+               <p>Standing into <hi>the Streamer,</hi> Signifyeth that <note n="c" place="margin">Pſal 37, 37. Ier. 29. 11. Pſal, 105, 19. Rom, 8, 25.</note> 
+                  <hi>The good Cauſe ſhal finally</hi> (in The Lords due tyme) <hi>Triumph.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pro Lege Rege Grege.</head>
+               <p>Standing in the <hi>Margine before the Sword,</hi> Signifyeth <hi>What only are Juſt</hi> and <hi>Lawful Cauſes</hi> for Raiſing up <hi>Armes</hi> and Publique <hi>Warre,</hi> To witt, <note n="d" place="margin">Ioſua 22, 12. &amp;</note> 
+                  <hi>For the Maintenance of Gods true Worſhip,</hi> 
+                  <note n="e" place="margin">2, Sam, 10, 5 &amp;</note> 
+                  <hi>Maintenance of the Authority of Lawful Superiours,</hi> 
+                  <note n="f" place="margin">1. Kin. 12, 16, 24</note> and <hi>For the Maintenance of the Common Wealth.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Crede mihi verum Libertas optima rerum nunquam Servili ſub Nexu vivete Filij.</head>
+               <p>Standing upon the <hi>Hand</hi> of the <hi>Sword,</hi> Signifyeth (in a Pray<g ref="char:EOLhyphen"/>ſing and Recommending Manner) <hi>the</hi> 
+                  <note n="g" place="margin">1. Cor, 7, 21. Gal. 5, 1.</note> 
+                  <hi>Happy Eſtate</hi> of <hi>Free<g ref="char:EOLhyphen"/>dome</hi> and <hi>Liberty,</hi> and to the Contrary Diſprayſing, and Diſwa<g ref="char:EOLhyphen"/>ding al Men from, <hi>the</hi> 
+                  <note n="h" place="margin">Exod. 1, 14. Exod. 6 9. Exod. 20, 2. Deut. 28, 68. 1. Cor, 7, 23.</note> 
+                  <hi>Miſerable</hi> and unhappy <hi>Eſtate</hi> of <hi>Slave<g ref="char:EOLhyphen"/>rie</hi> and Cruel <hi>Yoke of Bondage.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Remove the VVicked from the King in Righteouſnes then ſhal he Reign.</head>
+               <p>Standing upon the <hi>Booke,</hi> is Collected out of the <hi>Grave Sen<g ref="char:EOLhyphen"/>tences</hi> and <hi>Pithy Parables</hi> of the <note n="i" place="margin">1. Kings. 4, 31.</note> 
+                  <hi>Wyſeſt King</hi> Who never had nor ſhal have ane <hi>Equal,</hi> Signifyeing how Ordinally <note n="k" place="margin">2 Cron. 22, 4, Eſra. 4, 5. Eſter, 5, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1. Pſal. 41, 9.</note> 
+                  <hi>Wicked Coun<g ref="char:EOLhyphen"/>ſellours</hi> are Neareſt <hi>Kings,</hi> and how Neceſſary it is (if <hi>the King</hi> deſyreth <hi>His Throne</hi> to be <hi>Eſtabliſhed in Righteouſnes,</hi> not only to be <hi>Juſt, Pure,</hi> and <hi>Righteous Himſelf,</hi> but alſo) <hi>to</hi> 
+                  <note n="l" place="margin">Prov 20, 26. Pſal. 26, 5. Pſal. 10<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 3 &amp;c. Pſal, 119. 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</note> 
+                  <hi>Skatter</hi> the <hi>Wicked to Cloſe</hi> his <hi>Eares</hi> and <hi>Barre</hi> his <hi>Court-doores</hi> upon al <hi>Pro<g ref="char:EOLhyphen"/>phane Courteours</hi> and Corrupted <hi>Counſellers.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:9639:6"/>
+                  <figure/>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9639:7"/>
+               <pb facs="tcp:9639:7"/>
+               <head>O King of Royal Race, Remember My true VVord thow ventur's Crown and Peace, By Drawing of Thy Sword.</head>
+               <p>Standing upon <hi>the Sheath,</hi> is <hi>a Warning</hi> to <hi>the King,</hi> Signifyeing the great Danger of a <hi>Domeſtike Warre,</hi> and that <note n="m" place="margin">Mat 12, 25. Mark, 3, 24. Luke 12, 17.</note> a Kingdome Divyded againſt it Self can not Stand.</p>
+            </div>
+            <div type="part">
+               <head>If this Knot louſed bee, it's thy Loss and thy heirs Whether the Victorie, bee on thy ſyde or theirs.</head>
+               <p>Standing upon <hi>the Garter,</hi> beginning upon <hi>the Knot</hi> thereof about the <hi>Gardes,</hi> is <hi>a Reaſon</hi> Backing and Binding the foreſayd Warning, Signifyeing what <hi>Fruits</hi> and <hi>Effects the King</hi> is to Ex<g ref="char:EOLhyphen"/>pect by caſting louſſe <hi>the Knot</hi> of <hi>Peace,</hi> and <hi>Drawing the Sword againſt His Subiects,</hi> Showing <note n="n" place="margin">1. Kings, 20, <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Cron, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0, 6. Prov, 16, 33, Prov 21, 30, 31, Pſal, 98, 1, Amos 2, 14, &amp;c. Pſal 32, 16.</note> 
+                  <hi>the <g ref="char:V">Ʋ</g>ncertaintie of</hi> the <hi>Victory,</hi> and how <hi>His Ma<hi rend="sup">tie</hi>
+                  </hi> (goe as it wil) ſhal always be a <hi>Loſer,</hi> for if <hi>His Armie</hi> bee <hi>Victorious,</hi> Hee may wel Gaine <note n="o" place="margin">Dan. 11, 21, 32 34</note> 
+                  <hi>a Frothy Prayſe</hi> of <hi>Flatterers,</hi> and <hi>Bellie blowers</hi> of thoſe Troubles, togither with <note n="p" place="margin">2 Cron, 21, 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</note> 
+                  <hi>ane outward Show</hi> of <hi>Compelled Obedience,</hi> but in the Meantyme Hee ſhal Loſſe <hi>the Hearts</hi> and <hi>Affection</hi> of His <hi>Subiects,</hi> if Con<g ref="char:EOLhyphen"/>trary, <note n="q" place="margin">Dan, 2, 21, Pſal <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9, 19, 20, Pſal, 119 6. 80, Luc 14, 30,</note> then His Loſſe ſhalbe greater (by and attour <hi>the Staine</hi> of His <hi>Honnour</hi> and <hi>Reputation</hi> at Home and Abroad) then al <hi>the Power</hi> and crafty <hi>Witt</hi> of <hi>His Cruel</hi> 
+                  <note n="r" place="margin">Pſal, 68, 30. Eccl, 9, 18, Prov, 12, 20.</note> 
+                  <hi>Warre-Counſellers</hi> ſhalbe Able to Neſtore.</p>
+            </div>
+            <div type="part">
+               <head>Dominus firmet Vinculum Pacis.</head>
+               <p>Standing into the <hi>Neather End</hi> of <hi>the Garter</hi> is <hi>a Wiſh</hi> and ear<g ref="char:EOLhyphen"/>neſt <hi>Deſyre</hi> of the <hi>Godly,</hi> for <hi>unity, Amity and Concord,</hi> Praying <note n="s" place="margin">Pſal, 122, 6 &amp;c Pſal, 147, 14, Ephe. 4, 3, 2. Theſſ, 3, 16.</note> 
+                  <hi>The Lord</hi> to <hi>Eſtabliſh the Bond of Peace,</hi> Item the Standing of this <hi>Wiſh,</hi> into <hi>that end</hi> of <hi>the Garter,</hi> neare the Knot which is about the Gardes, Signifyeth, that if <hi>the King</hi> (in whoſe Power it is under <hi>God I keep faſt this Knot</hi> and <note n="t" place="margin">Ioſua 1. 16, &amp;c. 1. Kings 12, 7, 8</note> be Addicted unto <hi>Peace,</hi> there is <hi>no Doubt</hi> but <hi>His Subiects in Scotland</hi> in tymes comming ſhal Remaine (as they have ever bene) <hi>True Loyal</hi> and <hi>Obedient</hi> to <hi>Him (theyr Natural Prince)</hi> in <hi>al Things Lawful.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Hony ſoit Qui Maly penſe.</head>
+               <p>Standing into the <hi>
+                     <g ref="char:V">Ʋ</g>pper End</hi> of the <hi>Garter,</hi> is the proper
+<pb facs="tcp:9639:8"/>
+                  <hi>Deton</hi> of <hi>the Garter</hi> about the <hi>Kings Armes</hi> where this hath its owne Signification, only the Standing of the ſame in <hi>that End</hi> of <hi>the Garter</hi> neare the Thriſſel, Signifyeth, that if <hi>the King</hi> can not be <note n="v" place="margin">1 King 12, 8 16 1. Kings 12, 24. Ierem, 22, 5.</note> Diſwaded, but Abſolutely <hi>Wil Louſe the Knot of Peace,</hi> (which yet is faſt about the Gardes) then <hi>no Man</hi> ſhould <hi>think Evil</hi> or Raſhly Condemne the (Compelled) <hi>Louſers of that Knot</hi> which yet <hi>holdeth faſt the Thriſſel.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>In Defence.</head>
+               <p>Standing upon <hi>the Gardes</hi> of <hi>the Sword,</hi> is <hi>the Kings</hi> owne pro<g ref="char:EOLhyphen"/>per <hi>Deton,</hi> and <hi>in this Place</hi> it Signifyeth to put <hi>His Ma<hi rend="sup">tie</hi>
+                  </hi> in Re<g ref="char:EOLhyphen"/>membrance, When <hi>Hee</hi> is goeing to <hi>Draw</hi> His <hi>Sword,</hi> to Pon<g ref="char:EOLhyphen"/>der and Meditate <hi>upon this His owne Deton,</hi> and to Conſider, that even as <hi>the Gardes</hi> of <hi>the Sword</hi> is Ordained <hi>only for Defence (not</hi> for Offence) of <hi>the Body,</hi> and particulare <hi>Members,</hi> of Him that maketh uſe of the Sword, <note n="w" place="margin">Rom 13, 1, &amp;c, 1. Pet, 2, 13. 7, Iſai 49, 23. Ierem. 22, 3, &amp;c. Prov 8, 15. Dan. 2, 25.</note> So that <hi>Temporal Power</hi> which <hi>The Lord</hi> hath gevin <hi>Him, Hee</hi> is to Employe and Chiefly to uſe, <hi>in Defence,</hi> of <hi>Himſelf,</hi> and of <hi>His Natural Members,</hi> Defending <hi>The Cauſe of Him by Whom Kings Reigns.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Hold faſt the Trueth, care not for Mortal Men, Expecting th'Endles Crown moſt Comfortable, If Chriſtians Hope were but in this Lyfe, then Wee, of al Men, were the moſt Miſerable.</head>
+               <p>Standing into <hi>the Edge</hi> or <hi>Border</hi> of <hi>the Banner</hi> Signifyeth, even as it goeth round about <hi>Environning the Banner,</hi> So <hi>al Faythful Paſtors</hi> Continually are goeing about in every Part, <note n="x" place="margin">Iſai 58, 1. Hoſ 5, 8. Ioel 2, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>Blowing the Horne</hi> from Corner to Corner, <note n="y" place="margin">Pſal. 106, 23. Ezek 13, 5. Ezek 22, 30. Ezek 3, 17. &amp;c. Ezek 33, 7 &amp;c. Luc. 12, 42. Tim. <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 7. 1. Cor 4, 1, 2. Mat. 5, 6. Act 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 22,</note> as <hi>True Shepherds</hi> Standing (as it were) <hi>into the Gap,</hi> Environning <hi>the Flocke</hi> com<g ref="char:EOLhyphen"/>mitted to theyr Charge, as <hi>good Watchmen</hi> Advertiſing <hi>the Peo<g ref="char:EOLhyphen"/>ple</hi> of the apparent <hi>Dangers,</hi> and as <hi>careful Stewards</hi> ever Provy<g ref="char:EOLhyphen"/>ding <hi>Spiritual Foode</hi> for al ſuch as Hunger and Thirſt for Righ<g ref="char:EOLhyphen"/>teouſnes, Confirming <hi>the Hearts</hi> of <hi>the Godly Exhorting them</hi> to Continue <hi>in the Fayth,</hi> Affirming that <note n="z" place="margin">Act. 14, 21. Luc. 9, 22,</note> 
+                  <hi>Croſſes</hi> and <hi>Afflictions</hi> are <hi>the right Way</hi> and <hi>Entrie to Heaven,</hi> Encourageing them with a <hi>Chriſtian Conſtancie</hi> to <note n="a" place="margin">1 Pet. <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, 22, 1 Tim, 6, 19, 20,</note> 
+                  <hi>hold faſt the Trueth,</hi> Deſpyſing <hi>al Thoſe</hi> whoſe greateſt Power is only <hi>to</hi> 
+                  <note n="b" place="margin">Mat <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8,</note> 
+                  <hi>Kil the Body,</hi> and to Conſider that theyr <note n="c" place="margin">1. Cor, 15, 19 Rom. 8 24. 2, Cor, 3, 12. Col, 1, 5, Tit, 2, 13, Heb 6, 19, &amp;c 1. Iohn, 3, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Hope</hi> and <hi>Felicitie</hi> is <hi>not only in this Lyfe,</hi> but that They ſhalbe <hi>Crowned</hi> with <hi>Endles Joyes</hi> and <hi>Bleſſed Hap<g ref="char:EOLhyphen"/>pyneſſe</hi>
+                  <pb facs="tcp:9639:8"/>
+when this theyr <hi>ſhort Pilgrimage</hi> is finiſhed.</p>
+            </div>
+            <div type="part">
+               <head>VVo to Them that Control Us, Wee'l Fear God, then Carolus.</head>
+               <p>Being <hi>the firſt Letters of everie Lyne</hi> into the <hi>Banner,</hi> Signi<g ref="char:EOLhyphen"/>fyeing that <note n="d" place="margin">Iſai, 10, 1 Prov, 17, 15, Iſai, 5<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 9, Mat, 12, 7, Luc, 6, 37,</note> 
+                  <hi>Grief</hi> and <hi>Wo</hi> ſhable <hi>the End</hi> of al <hi>Thoſe</hi> that Spyte<g ref="char:EOLhyphen"/>fully <hi>Controlleth</hi> and Maliciouſly <hi>Condemneth</hi> the <hi>Loyal Covenan<g ref="char:EOLhyphen"/>ters</hi> of <hi>Scotland</hi> Becaus they <note n="e" place="margin">Hoſe 5, 11, 12. Prov, 34, 21, Act, 5, 29, 1, Pet, 2, 17, Iſai, 51, 12, 13.</note> 
+                  <hi>Preferre</hi> the <hi>Fear</hi> of <hi>God</hi> before the <hi>Fear</hi> of Farthly <hi>Kings</hi> and <hi>Princes.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>When only Thriſſels King our Faythful Steward Born S. Andrews Cros Enioy'd, We Ioy'd by Trueths Plantation.</head>
+               <p>Standing into <hi>the firſt</hi> or Formeſt (called the <hi>S Andrews) Cros</hi> Signifyeth the <note n="f" place="margin">2 Kings 23, 19, 2. Cron, 34, 33 2 Cron, 29, 5, Pſal, 97, 1, 8, &amp;c, 1. Pet, 1, 6, 8,</note> 
+                  <hi>Joyful Eſtate</hi> of <hi>the Church in Scotland,</hi> at that <hi>Tyme</hi> of the Bleſſed <hi>Reformatton</hi> When <hi>King James,</hi> 6. was <hi>King</hi> of <hi>Scots</hi> only.</p>
+            </div>
+            <div type="part">
+               <head>But ſince the doubel Cros of Brittans Chief was Worn, Worldlings did ever Croſſ our Peace and Reformation.</head>
+               <p>Standing into <hi>the Second</hi> (called the <hi>S. George) Cros,</hi> Signi<g ref="char:EOLhyphen"/>fyeth How (ſince the <hi>Yle</hi> of <hi>Brittan</hi> come under the Governe<g ref="char:EOLhyphen"/>ment of <hi>One King)</hi> the <hi>Imps</hi> of <note n="g" place="margin">Mat, 15, 5, 6, Marc, 7, 9. 13, Col, 2, 8, 26, Ephe, 5, 6 Iſai, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9, 13.</note> 
+                  <hi>Superſtition</hi> and <hi>Seeds</hi> of <hi>Ydle Ceremonies</hi> have (Secretly and Openly Peece and Peece) bene Sent, Brought, and Cropen in to the <hi>Church</hi> of <hi>Scotland,</hi> By <hi>Carnal Men</hi> and Such as (with <note n="h" place="margin">2, Timo, 4, 10. Luk, 12, 30, Iam, 4. 4, 1. Ioh. 2, 15. &amp;c.</note> 
+                  <hi>Demas)</hi> Embraced this preſent <hi>World.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Explication of the VVords Comprehended Within the Body of the Banner.</head>
+               <p>The <hi>Meaning</hi> and <hi>Subſtance</hi> of the whole <hi>Verſes</hi> Corſiſting in 43. Lynes, is <hi>Briefly</hi> this, <hi>To Witt, 1. A Lamentable Speech</hi> of <hi>Al</hi> the <hi>Godly</hi> Within the <hi>Realme</hi> of <hi>Scotlana</hi> Directed to <hi>Al</hi> the <hi>Members</hi> of <hi>Ieſus Chryſt</hi> Diſperſed throw the whole <hi>World,</hi> Showing, that the <hi>Hearts</hi> of the <hi>Faythful</hi> (if They only Conſider
+<pb facs="tcp:9639:9"/>
+and caſt theyr Eyes upon the <note n="i" place="margin">Pſal. 73, 15, 16.</note> 
+                  <hi>preſent Eſtate</hi> of <hi>Scotland,</hi> Loadened with <hi>Croſſes</hi> and <hi>Calamities)</hi> ſhal be <hi>Overwhelmed</hi> with <hi>Sorrow Dolour</hi> and <hi>Grief,</hi> But yet <note n="k" place="margin">Pſal. 73, 17.</note> as ſoone as They ſhal <hi>Enter</hi> into the <hi>Sactuary</hi> of <hi>God</hi> and take Conſultation of <hi>His</hi> Infallible <hi>Verity,</hi> They ſhal Find this to have bene Ever the <hi>continual Practiſe</hi> of <note n="l" place="margin">Iohn. 8, 44.</note> 
+                  <hi>the Devit</hi> (Who is <hi>a Murtherer</hi> from the Beginning) Always to <hi>Perſew</hi> (with greatteſt Vehemency) <note n="m" place="margin">Mat. 12, 44. Luk 11, 24. 2. Pet. 2, 18. &amp;c.</note> 
+                  <hi>Thoſe Who once were under His Dominion</hi> but <hi>Laboureth</hi> to be <hi>Freed</hi> of <hi>His Yoke,</hi> and more and more to <hi>Baniſh Him</hi> and <hi>Idolatry</hi> out of theyr <hi>Hearts</hi> and <hi>Bounds,</hi> And when Hee can not get Them under his Clawes ſo Openly as Before When They were wholely <hi>Blinded</hi> in <hi>Super<g ref="char:EOLhyphen"/>ſtition,</hi> 
+                  <note n="n" place="margin">Act. 13, 10. 2. Cor 11, 3. Ephe 4, 14. Gen. 3, 13.</note> Hee Stryves to Effectuate the ſame by <hi>Crafty</hi> and <hi>Subtil Allurings, ∽.</hi>
+               </p>
+               <p>2. How <hi>Hee Lately</hi> ſought to <hi>Re-Eſtabliſh, His Decayed Whoo<g ref="char:EOLhyphen"/>riſh Throne</hi> of <hi>Spiritual Adultery,</hi> in that <hi>Kingdome,</hi> Thinking with <hi>Maine</hi> and <hi>Might</hi> 
+                  <note n="o" place="margin">Prov. 26, 11. 2. Pet. 2, 12.</note> 
+                  <hi>to Bring Them Againe</hi> to (Theyr once Vomitted) <hi>Slavery,</hi> and ſo <hi>Planting</hi> the <hi>Seate</hi> of <hi>Darknes</hi> amongſt Them, <hi>Surer then Before,</hi> to Make Theyr <note n="p" place="margin">Mat 12, 45. Luk. 11, 26. 2. Pet. 2, 20.</note> 
+                  <hi>Laſt Eſtate Worſe</hi> then <hi>the Firſt, ∽.</hi>
+               </p>
+               <p>3. How <hi>The Lord</hi> Diſappointed <hi>Satan,</hi> and Mooved the Hearts of <hi>His People,</hi> 
+                  <note n="q" place="margin">2 Cron 34, 27. Iere. 50, 4. 6.</note> Speedily to <hi>Renew</hi> theyr <hi>Covenant</hi> With <hi>Theyr God,</hi> Confeſſe theyr <hi>Sinnes</hi> and <hi>Cry</hi> for <hi>Mercy</hi> and <hi>Help</hi> at <hi>His Hands,</hi> 
+                  <note n="r" place="margin">Pſal. 74, 2. 1. Kings. 8, 51, 52 Pſal. 28, 9. Pſal 33, 12. Pſal 68, 9. Pſal. 94, 14.</note> 
+                  <hi>Who</hi> (Pitying <hi>His</hi> owne <hi>Inheritance) Heard Theyr Grones</hi> and did <hi>Graunt</hi> them theyr <hi>Earneſt Deſyres,</hi> in <hi>Cleanſing His Church,</hi> from al <hi>Filthyneſſe</hi> and <hi>Ydle Toyes</hi> and in <hi>Skattering</hi> the <hi>Forgers</hi> thereof, Bringing <hi>Them</hi> and theyr <hi>Ceremonies</hi> to <hi>Confu<g ref="char:EOLhyphen"/>ſion,</hi> So that thoſe <hi>Belly Gods</hi> 
+                  <note n="s" place="margin">Iſai 42, 19. &amp;c Iſai. 56, 10. Mat 15, 14. Mat 2, 6 &amp;c. Ichn 9, 39 &amp;c. Rom 2, 9. &amp;c. 2. Pet 1, 9. 2 Cor 2, 4.</note> 
+                  <hi>(Blind Guydes</hi> both to <hi>
+                     <g ref="char:V">Ʋ</g>thers</hi> and alſo to <hi>Themſelfs)</hi> not being <hi>Able</hi> to find out any <hi>Reaſonnable Excuſe</hi> for thoſe (of Them Invented) <note n="t" place="margin">Mat. 15, 3. 6. Mark. 7, 7. &amp;c.</note> 
+                  <hi>Humayn Traditions,</hi> nei<g ref="char:EOLhyphen"/>ther in <hi>Gods Law</hi> nor <hi>Mans Law,</hi> Wondrouſly <hi>Enraged</hi> to See ſuch a <hi>Suddaine</hi> (of them thought unpoſſible) <hi>Change,</hi> Went <hi>At</hi> Amaſed <note n="*" place="margin">the Pretended Biſhops of Dunkell Catnes Orknay.</note> (Except 3. Who gave <hi>Glory</hi> to <hi>God</hi> by theyr <hi>Actual Recantation)</hi> with Speedy <hi>Poſting,</hi> to <hi>the King</hi> and <hi>Canterbury</hi> Theyr Only <hi>Hope</hi> and <hi>Stay</hi> (as they Preſume and Boaſt) Sho<g ref="char:EOLhyphen"/>wing <hi>Them</hi> (with Regrate) how theyr <hi>Booke of Cannons</hi> and <hi>Comone Prayers fayled</hi> them, how Theyr <hi>Plots</hi> againſt the <hi>Righ<g ref="char:EOLhyphen"/>teous</hi> were altogither <hi>Diſcovered,</hi> How the <hi>Sentence</hi> of <hi>Excom<g ref="char:EOLhyphen"/>munication,</hi> againſt <hi>Them</hi> (as <hi>Hyrelings)</hi> was <hi>Pronounced, th' Eter<g ref="char:EOLhyphen"/>nal Farewel Subſcryved,</hi> and Al theyr <hi>Pompe Glory</hi> and <hi>Vayn Wil-Worſhip, Damned</hi> and <hi>Abiured</hi> for <hi>Ever?</hi> This did not <hi>Eaſe</hi> theyr Burdened <hi>Stomachs,</hi> nor yet <hi>Satiſfie</hi> theyr unhealth ſome <hi>appetites</hi>
+                  <pb facs="tcp:9639:9"/>
+But <note n="v" place="margin">Prov 26, 25 prov, 28, 25, Ier, 9, 8. Mat, 23, 32, pſal 12, 4, pſal. 58, 2, pſal 140, 2. prov, 6, 14. prov. 12, 20, prov, 24, 2.</note> 
+                  <hi>Theyr Hearts</hi> being <hi>Fraughted</hi> with <hi>Malice, Fulfilling</hi> the Meaſure of <hi>(the Phariſees)</hi> theyr <hi>Grandfathers,</hi> Lyke <note n="w" place="margin">Mat 22, 23. Mat. 12, 34. pſal, 10 2, &amp;c. pſal. 26, 11, prov. 13, 10, prov. 16, 18. Ezek 16, 49, Obad, 3 Zeph, 2, <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</note> 
+                  <hi>Serpents</hi> and the <hi>Generation</hi> of <hi>Vipers</hi> (being Loath to Part with theyr <hi>Pryde</hi> and <hi>Ambition)</hi> They have ſtil Continued to Trouble and Moleſt both <hi>Church</hi> and <hi>State</hi> and (as <note n="*" place="margin">Vmq le Pre<g ref="char:EOLhyphen"/>ter ded Arch-Biſhop of S. Andrews.</note> 
+                  <hi>One</hi> of Theyr <hi>Chioſs</hi> Boaſtingly had vanted) done what in them lay, to make <hi>Three Kingdomes Shake,</hi> for <hi>Doubling out</hi> the <hi>North Cap</hi> of theyr <hi>Deſyres ∽.</hi>
+               </p>
+               <p>4. How the <hi>Church</hi> of <hi>Scotland</hi> was never <hi>Free</hi> of <hi>Croſſes</hi> and <hi>Troubles,</hi> ſince they <note n="*" place="margin">pſal. 149, 2. 1. Tim, 6, 12, 2. Tim, 2, 3, 4, 2, Tim, <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 7, Cantic. 2, 4, 1. Cor, 11, 3, Ephe 4, 15, Ephe, 5, 23. pſal. 125, 26, Zecha, 8, 3, Iſai, 28, 16, 1. pet, 2, 6,</note> Fought under the <hi>Banner</hi> of <hi>Ieſus Chryſt</hi> theyr <hi>King</hi> and <hi>Captaine</hi> for the <hi>Defeuce</hi> and <hi>Maintenance</hi> of <hi>Sions Trueth</hi> and ſure <hi>Foundation,</hi> and <hi>no wonder</hi> ſeeing <note n="y" place="margin">Gen, 3, 15</note> 
+                  <hi>God himſelf</hi> hath put <hi>Enmity</hi> betwixt the <hi>Serpe<g ref="char:cmbAbbrStroke">̄</g>t</hi> and the <hi>Woeman</hi> and theyr <hi>Seed. ∽.</hi>
+               </p>
+               <p>5. <hi>Ane Exhortation</hi> to <hi>Al Faythful Chriſtians,</hi> that They ſhould not be to much Afrayd of <hi>Satans Rage</hi> and <hi>Fury</hi> and not to <note n="z" place="margin">Gala, 6, 7. Ephe, 3, 13, Heb, 12, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5,</note> 
+                  <hi>Faint under</hi> the <hi>Croſſe,</hi> But with <hi>Courage</hi> and <hi>Conſtancie</hi> 
+                  <note n="a" place="margin">Ephe, 6, 12,</note> 
+                  <hi>Feght</hi> and <hi>Wreſtle</hi> againſt the <hi>Devil</hi> the <hi>World</hi> and the <hi>Fleſh,</hi> 
+                  <note n="b" place="margin">pſal, 19, 19, 54 Gen, 47, 9,</note> the <hi>Tyme</hi> of our <hi>Pilgrimage</hi> being but <hi>Short</hi> (yea leſſe then <note n="c" place="margin">pſal, 90, 1, 2 pet, 3 8, Mark. 9, 44, &amp;c.</note> 
+                  <hi>one Day</hi> in com<g ref="char:EOLhyphen"/>pariſon of <hi>Eternity)</hi> being certainly Perſwaded thal <note n="d" place="margin">Mat, 24, 13, Mark. 13, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3, Iam, 5, 11</note> 
+                  <hi>Al ſuch</hi> as <hi>Endure unto the End</hi> ſhal be <hi>Saved,</hi> and that <note n="e" place="margin">2. Tim, 7, 8, Iam 1, 12,</note> 
+                  <hi>the Crown of Righ<g ref="char:EOLhyphen"/>teouſnes</hi> is Layd up for <hi>Althoſe</hi> that <hi>Feght a good Fight, Finiſhing</hi> theyr <hi>Courſe</hi> and <hi>Keeping</hi> the <hi>Fayth,</hi> and to <note n="f" place="margin">Revel, 2, 7, 17. Revel, 3, 15, 21, Revel, 21, 7.</note> 
+                  <hi>Him that Overcom<g ref="char:EOLhyphen"/>meth</hi> Belongeth <hi>the Promiſe</hi> of <hi>Eternal Lyfe. ∽.</hi>
+               </p>
+               <p>6. <hi>A Reſolution</hi> of the <hi>Faythful Thriſſeliſts,</hi> ſeeing <hi>God</hi> of <hi>His Infinite Mercy</hi> Drew them out of the <note n="g" place="margin">Act, 26. 18, Col, 1, 13, 1, Pet, 2, 9,</note> 
+                  <hi>Kingdome</hi> of <hi>Darknes,</hi> they vvil only <hi>Repoſe on him</hi> Aſſuring the<g ref="char:cmbAbbrStroke">̄</g>ſelfs (vvhile as they <note n="h" place="margin">Heb, 4, 14, Heb 20 23.</note> 
+                  <hi>Main<g ref="char:EOLhyphen"/>tayne Gods Cauſe)</hi> of a <hi>Ful,</hi> Certain, and <hi>
+                     <g ref="char:V">Ʋ</g>ndoubted Delyverie,</hi> And ſo (vvith a Nevv Courage) they Reſolve to <hi>Depend</hi> upon the <note n="i" place="margin">Iſai 49, 7. 1, Cor, 1, 9, 1 Cor, 10, 23. 1. Theſ, 5, 24, 2 Theſ, 3 3, 2. Tim, 2, 13.</note> 
+                  <hi>Trueth</hi> of <hi>Gods</hi> never fayling <hi>Promiſes,</hi> the rather, Seeing <hi>The King</hi> theyr <hi>Earthly Hope</hi> (being <hi>Deluded</hi> and <hi>Deceived</hi> by <hi>Wicked Counſellers</hi> and <hi>Maſked Monſters,</hi> 
+                  <note n="k" place="margin">Eze, 22, 26, 2. Zepha, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 3, 4. Mat, 7, 15, Act. 20, 19.</note> 
+                  <hi>Wolfs in Sheep Skins)</hi> Reiects al theyr <hi>Lawful Petitions</hi> and <hi>Loyal Intentions. ∽.</hi>
+               </p>
+               <p>7. <hi>A Complaint To,</hi> and <hi>Of, the Kings Ma<hi rend="sup">tie</hi>,</hi> Regrating Hovv <hi>His Natural Subiects</hi> theyr Sorrovv and <hi>Grief</hi> is Doubled yea <hi>Multiplyed,</hi> vvhen they Remember and Conſider that <hi>Hee,</hi> theyr <hi>Great Jewel, Borne</hi> and <hi>Bred amongſt them,</hi> and ſo ſhould cary the greater Affection tovvards them, as<hi rend="sup">l</hi> 
+                  <hi>his Brethren,</hi> ſhould have <hi>Turned</hi> (as it appeareth) <hi>His Love</hi> into <hi>Hatred, Threatning them</hi> vvith <hi>Fyre</hi> and <hi>Sword</hi> and making Them the <hi>Butte</hi> of <hi>His Wrath</hi> and <hi>Indignation, Aſſuring His Ma<hi rend="sup">tie</hi>
+                  </hi> (if ſo be <hi>Hee Forſake the Profeſſors</hi> and <hi>Zealous Maintayners</hi> of <hi>the Pure Trueth,</hi> 
+                  <hi rend="sup">m</hi> by
+<pb facs="tcp:9639:10"/>
+                  <hi>Cheriſſing the Croſſers</hi> and <hi>Perſecuters thereof) Hee</hi> can not <hi>Enioye</hi> a <note place="margin">1 Deut, 17, 20. 1. Sam, 3<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 23, 2 Sam, 19, 12. 1 Cron. 28, 2. Pſal, <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, 8, Pſal, 33, 1 &amp;c, Prov. 16, 11. Prov. 19, 12</note> 
+                  <hi>Conſtant Good Peace</hi> nor <hi>Solide Reſt,</hi> but it is to be Feared (as ſo<g ref="char:EOLhyphen"/>metymes <hi>the Lord</hi> turned the <hi>Bleſſings</hi> of <hi>Faelſe Prophets</hi> into <hi>(hrſes</hi> and theyr <hi>Curſing</hi> to <hi>Bleſſings,</hi> that <hi>Boaſting Vante</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>chriſtian Threatning</hi> of that <note n="*" place="margin">Pretended Arch Biſhob of S Andrews.</note> 
+                  <hi>Laie Hie. Prieſt</hi> before mentioned ſhal Prove but <hi>over true a Prophecy,</hi> ſeing <note n="*" place="margin">His 3. King<g ref="char:EOLhyphen"/>doms.</note> 
+                  <hi>His Ma<hi rend="sup">ties</hi> Triple Dia<g ref="char:EOLhyphen"/>deme</hi> already to much is <note n="n" place="margin">Pſal. 12, 2. Pſal, <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, 5, &amp;c, Prov, 17, 15. 20 Prov, 24, 24, Deut. 2. 4 5. Ne<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 2. Pſal, 10<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 28, Maſa, 2, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Pſal, 10, 2 3. Pſal. 5, 1, &amp;c, Pſal. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4 4, 5, Ezek. 35, 12, &amp;c, Iam 3. 5. 1 Cron, 28, 9. 2 Cron <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, 2.</note> 
+                  <hi>Shaken,</hi> and (be al Appearance) wil yet <hi>Shake</hi> More, if Thoſe <hi>Flatterers (who Preferre theyr owne Stan<g ref="char:EOLhyphen"/>ding Before the Standing thereof)</hi> be <hi>Suffered</hi> to have the <hi>Guyding</hi> of the ſame. ∽.</p>
+               <p>8. <hi>A Petition of Al True Hearted Covenanters,</hi> to <hi>the Kings Ma<hi rend="sup">tie</hi> Theyr Soveraine,</hi> Mixed with a Serious <hi>Counſel,</hi> Intreating <hi>Him</hi> wel to <hi rend="sup">o</hi> 
+                  <hi>Weigh</hi> and <hi>Conſider</hi> the <hi>preſent Seaſon</hi> and <hi>Troublous time,</hi> that <hi>the World</hi> is neare and <hi>End,</hi> and that <note n="n" place="margin">Pſal, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. 2. Iſai. 14, 16. Ioel 3, 6. Pſal. 5, 9. Pſal. 12, 2, 3. Prov, 20<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6. Dan, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1, 32.</note> 
+                  <hi>Rumors of Warres are the Beginings</hi> of <hi>Sorrows,</hi> and Therefore to <hi>Pacify His anger,</hi> to <hi>Submit Himſelf</hi> to <hi>Reaſon,</hi> to <hi>Bury His</hi> Conceived <hi>Wrath</hi> in the Bottome of the <hi>Sea</hi> and <hi>Oblivion,</hi> to <hi>Build up the Walles of Reli<g ref="char:EOLhyphen"/>gion,</hi> to Deſtroy and <hi>Roote out Thoſe Bloody Men</hi> that <hi>Aime</hi> at nothing (tho under the Pretext of <hi>Service</hi> to <hi>God</hi> and the <hi>King)</hi> but the <note n="q" place="margin">Prov, 16, 28, Rom. 16, 17, 18 1 Cor. 12, 26. Ephe, 4, 25</note> 
+                  <hi>Separating</hi> of <hi>Him The Head</hi> from <hi>His</hi> moſt <hi>Loyal</hi> and ever <hi>Trueſt Members,</hi> Aſſuring <hi>His Ma<hi rend="sup">tie</hi>
+                  </hi> that <hi>even now the Tyme</hi> 
+                  <note place="margin">Ezek, 7, 2. 3. 6, Amos 8. 2 10, 1. Pet. 4, 7.</note> 
+                  <hi>is Borne,</hi> the <note n="r" place="margin">Pſal, 61, 2. Prov, 21, 3. Luk, 4, 19.</note> 
+                  <hi>Acceptable Yeere of the Lord,</hi> in which <hi>Hee can,</hi> and ought to, <note n="s" place="margin">2 King, 18, 4 2. King, 23, 2, &amp;c Pſal. 49, 23.</note> 
+                  <hi>Teſtifie</hi> Before <hi>God</hi> and <hi>Men</hi> (as <hi>Hee</hi> carrieth the <note place="margin">P Mat, 24, 3 6, 7, Mark, 13, 8 2. Cron, 34, 33, Pſal, 51, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Name</hi> and <hi>Title)</hi> that <hi>Hee</hi> is <hi>in Deed</hi> and <hi>Effect A Defender of the Fayth,</hi> Showing <hi>His Ma<hi rend="sup">tie</hi>
+                  </hi> that (of Neceſſity) <hi>Hee</hi> muſt put to <hi>Tryal</hi> al thoſe <hi>Wicked Vaine</hi> and <hi>Proud</hi> 
+                  <note n="t" place="margin">Eſt, 7, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp;c Rom. 1. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4</note> 
+                  <hi>Hamans</hi> (althought they were, for the preſe<g ref="char:cmbAbbrStroke">̄</g>t, in <hi>Chiefeſt Account</hi> with <hi>Him)</hi> and <hi>al Faythful</hi> and <hi>Loyal</hi> 
+                  <note n="v" place="margin">Eſt, 6. 2. 3, &amp;c, Eſt. 8, 1 2. 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Rom 13 3. 4.</note> 
+                  <hi>Mordecais</hi> (Who after <hi>Dew Examination</hi> ſhalbe found to have done the <hi>only beſt Service</hi> to <hi>His Ma<hi rend="sup">tie</hi>
+                  </hi> for the <hi>Pre<g ref="char:EOLhyphen"/>ſervation</hi> of <hi>Soule</hi> and <hi>Body, Lyfe</hi> and <hi>Honnour)</hi> muſt be <hi>Remem<g ref="char:EOLhyphen"/>bred, Maintayned</hi> in <hi>theyr Right</hi> and <hi>Priviledges, Defended</hi> againſt <hi>al theyr Oppreſſors,</hi> and <hi>Rewarded</hi> according as <hi>theyr Loyalty</hi> When <hi>Sanctifyed Reaſon</hi> ſhalbe <hi>Judge</hi> betwixt <hi>Them</hi> and theyr <hi>Adverſaries)</hi> ſhalbe found to have Deſerved. ∽.</p>
+               <p>9. The <hi>Laſt Lyne</hi> is <hi>A Concluſion of al the Matter,</hi> Contayning, <hi>firſt,</hi> ane <hi>Acknowledgement</hi> of <hi>Al the Inhabitants</hi> of the <hi>Realme of Scotland</hi> that <hi>the Kings Ma<hi rend="sup">tie</hi> is Theyr King, Secondly</hi> a <hi>Counſel</hi> Advyſing <hi>His Ma<hi rend="sup">tie</hi>
+                  </hi> to Remember that <hi>Hee</hi> is <hi>Theyr King,</hi> and that <hi>No Earthly Prince</hi> can Say as <hi>Hee</hi> may doe, <hi>to witt,</hi> that <hi>Hee</hi> is, even the <hi>Hundreth and eight Man-King of Scots</hi> (not compting <hi>His Grand Mother Queene Mary)</hi> whereby <hi>theyr Loyaltie</hi> is Proo<g ref="char:EOLhyphen"/>yed Beyond <hi>Al Nations</hi> in the <hi>World, thridly</hi> to Conſider, that as
+<pb facs="tcp:9639:10" rendition="simple:additions"/>
+                  <hi>Hee</hi> is <hi>A King,</hi> and So called (by <hi>The Lords</hi> owne Mouth) <note n="w" place="margin">Pſal. 82, 6, 7.</note> 
+                  <hi>a God,</hi> So lykewyſe that <hi>Hee</hi> is <hi>a Man</hi> and muſt <hi>Die</hi> as <hi>a Man, fourtly</hi> and Laſtly that <hi>His Ma<hi rend="sup">tie</hi>
+                  </hi> would not <hi>Endanger</hi> that <hi>An<g ref="char:EOLhyphen"/>cient</hi> and <hi>Rare Jewel (None Such</hi> in al this <hi>
+                     <g ref="char:V">Ʋ</g>nivers)</hi> 
+                  <note n="*" place="margin">King Fergus, the firſt King of Scots, Began to Reigne in the year of the World 3641. Which was 330. Years Before Chryſts Incatna<g ref="char:EOLhyphen"/>tion, &amp; ſince that Tyme the Crown of Scotland was never Conqueſt.</note> 
+                  <hi>King Fergus Crown,</hi> for <hi>Such Matters</hi> as <hi>May</hi> and <hi>can be Accommodate</hi> a farre <hi>Surer, Eaſier,</hi> and <hi>Better Way,</hi> but by al Poſſible Meanes to <hi>Hold a grippe</hi> of it? <hi>Where <g ref="char:V">Ʋ</g>nto</hi> I Pray <note n="x" place="margin">Prov, 22, 1.</note> 
+                  <hi>The Lord (Who hath the Hearts of al Kings into His Hand as the Rivers of Waters, and Turneth them Whetherſoever it Pleaſeth Him)</hi> Inclyne <hi>His Royal Heart,</hi> that <note n="y" place="margin">1. Tim. 2, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder His Bleſſed Governement wee may Al Lead a Quyet and Peaceable Lyſe in al Godlyneſſe and Honeſtie, Amen.</hi>
+               </p>
+               <p>Tho al the Pow'rs and Srrength, Of Satan Hel and Death, masked with Worldly Toyes, Thyne (O Lord) here Oppreſſed. Cunyng Curſ'd Fooles at length, Conte<g ref="char:cmbAbbrStroke">̄</g>tles through Fyr's Breath hame in Thy upper-Ioyes, Thee with Thyne ſhal ſee Bleſſed.</p>
+               <p>
+                  <hi>This Verſe</hi> Standing <hi>under</hi> the <hi>Banner,</hi> being as the <hi>Subſcription</hi> to the <hi>vvbola Work,</hi> 
+                  <note n="*" place="margin">Wiſdome 5. 1.</note> Collected out of the <hi>Booke</hi> of <hi>VViſdome</hi> (altho <hi>Apocrypha)</hi> Signifyeth How <hi>al</hi> the <hi>Godly</hi> (notwithſtanding they, in this Lyſe, are Subiect to Continual Troubles and Perſecutions, yet are Eſtabliſhed in theyr Hope Conſidering what ſhalbe <hi>theyr Eſtate</hi> after this Lyfe, How They (at the Laſt Day) ſhal Stand before <note n="z" place="margin">Iudg, 11, 27. Pſal, 50, 6. Pſal, 94, 1, 2, Iſai, 23, 22 Act, 10, 42 2. Tim, 4, 8. Heb, 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 23.</note> 
+                  <hi>God the Iudge of Al Fleſh,</hi> with <hi>Confidence</hi> and <hi>Boldneſſe,</hi> even <hi>in the Sight</hi> and <hi>Preſence</hi> of <hi>Theyr</hi> Wicked <hi>Adverſaries vvho</hi> then ſhalbe <hi>cloathed</hi> with <hi>Anguiſh, Feare,</hi> and <hi>Terrible Affrightments,</hi> When they ſhal Heare that Comfortable <hi>Voyce</hi> Spoken <hi>to</hi> 
+                  <note n="a" place="margin">Pſal, 22, 7, Pſal, <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 6 Luk. 6, 25.</note> 
+                  <hi>Thoſe</hi> whom they ſometyme had in <hi>Deriſion,</hi> 
+                  <note n="b" place="margin">Mat, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</note> 
+                  <hi>Come yee Bleſſed of My Father, Take and Inherite the Kingdome Prepared for You, from the Foundation of the VVorld,</hi> But They to the Contrair (ſtanding as Re<g ref="char:EOLhyphen"/>probate <note n="c" place="margin">Mat, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5, 33.</note> 
+                  <hi>Goates</hi> on the <hi>Left Hand VViſhing</hi> and <hi>Crying</hi> the <note n="d" place="margin">Luk, 23, 30. Revel. 6, 6.</note> 
+                  <hi>Mountaines</hi> and <hi>Rockes</hi> to <hi>Fall on them,</hi> and to <hi>Hyde them</hi> from the Preſence of <hi>Him that Sitteth</hi> on the <hi>Throne,</hi> and from the <hi>VVrath</hi> of the <hi>Lambey</hi> Reſſaving that <hi>Irrovocable Doome</hi> and <hi>unalterable Sentence,</hi> 
+                  <note n="e" place="margin">Mat 7, 23 Mat, 25, 41. Luk, 3, 27.</note> 
+                  <hi>Depart from Me Yet Cur<g ref="char:EOLhyphen"/>ſed into Everlaſting Fyre, vvhich is Prepared for the Devil and His Angels? VVould God, Al Men</hi> (of Whathſoever Eſtate and quality) before they Begin to Attempt any Thing, <hi>could</hi> and <hi>vvould</hi> Always Remember that Old Proverbe and Wyſe Counſel <hi>Quicquid Agas, Prudenter Agas &amp; Reſpice Finem,</hi> And, So Carrie Themſelfs <hi>here Belovv,</hi> as They wil (yea muſt) bee Anſwerable <hi>In that Day</hi> when <note n="f" place="margin">Pſal, 14, 21, Pſal. 39, 11. Ma<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, 4. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. Rom, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 16.</note> 
+                  <hi>the Secrets</hi> of <hi>Al Heart,</hi> ſhalbe <hi>Diſcloſed,</hi> and when <note n="g" place="margin">Pſal. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0, 21.</note> 
+                  <hi>The God</hi> of <hi>Gods</hi> ſhal Set <hi>Al</hi> the <hi>Sinnes</hi> of the <hi>VVicked in Ordour Before Him,</hi> So ſhould <hi>Each One</hi> keepe Himſelf Within the Bounds of His Calling and Always Stryve to <hi>Have</hi> and <hi>Keepe</hi> 
+                  <note n="h" place="margin">2 Cor, 1, 12, 1. Tim, <gap reason="illegible: faint" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>9, 1, Pet. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 16.</note> 
+                  <hi>the Teſtimony of a Good Conſcience,</hi> Obeying (with a Contented Mynde) the <note n="i" place="margin">Philip. 4, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1, 1 Tim, 6, 6. Heb 3. 5 2, Cor. 13. 14, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Commandement of the Apoſtle Paul.</p>
+               <closer>Of Thyne Content Thee.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
